@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-shell": "^0.8.0"
+  },
+  "dependencies": {
+    "gulp-git": "^2.10.1"
+  }
+}
